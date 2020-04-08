@@ -94,6 +94,11 @@
                     <a href="https://vapor.laravel.com">Vapor</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
+
+                <?php   
+                    //print_r($_ENV);
+                   //echo '<pre>'; print_r($_SERVER); echo '</pre>';
+                ?>
             </div>
         </div>
     </body>

@@ -96,7 +96,7 @@
                 </div>
 
                 <?php   
-                    //print_r($_ENV);  //ssss
+                    //print_r($_ENV);  //ssss ff
                    //echo '<pre>'; print_r($_SERVER); echo '</pre>';
                 ?>
             </div>

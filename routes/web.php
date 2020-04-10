@@ -17,6 +17,23 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/home', function () {
-    return view('home');
+Route::get('/inicio', function () {
+    return view('inicio');
 });
+
+Route::get('/inicio/{id}', function ($id) {
+    return 'id: '.$id;
+});
+
+Route::get('/nosotros', function () {
+    return view('nosotros');
+});
+
+Route::get('/servicios', function () {
+    return view('servicios');
+});
+
+Route::get('/contacto', function () {
+    return view('contacto');
+});
+

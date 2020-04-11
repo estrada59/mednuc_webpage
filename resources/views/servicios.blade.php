@@ -2,6 +2,8 @@
 
 @section('title', 'Servicios - Medicina Nuclear')
 
+@section('menu_servicios', 'active')
+
 @section('cuerpo')
 
     <!-- PAGE CONTENT -->
@@ -14,7 +16,7 @@
                 <div class="row">
                     <div class="col-md-12">
 
-                        <h1>Services</h1>
+                        <h1>Servicios</h1>
 
                     </div><!-- col -->
                 </div><!-- row -->

@@ -2,6 +2,8 @@
 
 @section('title', 'Inicio - Medicina Nuclear')
 
+@section('menu_inicio', 'active')
+
 @section('cuerpo')
     
 
@@ -20,12 +22,12 @@
                             <div class="row">
                                 <div class="col-md-12">
 
-                                    <h1>The best team of doctors</h1>
+                                    <h1>El mejor equipo médico</h1>
 
                                     <p>Aliquam pharetra lacinia lacus vitae pretium. Morbi placerat risus sit <br>
                                         nulla efficitur. Vivamus ultrices semper ullamacorper placerat.</p>
 
-                                    <a class="btn btn-default waves" href="appointment.html">Make an appointment</a>
+                                    <a class="btn btn-default waves" href="#">Make an appointment</a>
 
                                 </div><!-- col -->
                             </div><!-- row -->
@@ -36,13 +38,15 @@
                 </div><!-- item -->
                 <div class="item" style="background-image:url(images/index/main-slider/bg-slide-2.jpg);">
 
+                    <div class="slide-overlay"></div>
+                    
                     <div class="slide-description">
 
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-12">
 
-                                    <h1>We are here for you</h1>
+                                    <h1>Nosotros estamos aquí para ti</h1>
 
                                     <p>Aliquam pharetra lacinia lacus vitae pretium. Morbi placerat risus sit <br>
                                         nulla efficitur. Vivamus ultrices semper ullamacorper placerat.</p>

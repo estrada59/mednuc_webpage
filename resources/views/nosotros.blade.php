@@ -2,6 +2,8 @@
 
 @section('title', 'Nosotros - Medicina Nuclear')
 
+@section('menu_nosotros', 'active')
+
 @section('cuerpo')
 
     <div id="main-container">
@@ -16,7 +18,7 @@
                     <div class="row">
                         <div class="col-md-12">
 
-                            <h1>About us</h1>
+                            <h1>Nosotros</h1>
 
                         </div><!-- col -->
                     </div><!-- row -->
@@ -558,78 +560,7 @@
         </div><!-- PAGE CONTENT -->
 
 
-        <!-- FOOTER -->
-        <footer id="footer-container">
-
-            <div id="footer">
-
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12">
-
-                            <div class="widget widget-text">
-
-                                <div class="text-center">
-
-                                    <p><img src="assets/images/logo-white.png" alt=""></p>
-                                    <p class="text-uppercase">Best medical solutions</p>
-
-                                </div>
-
-                            </div><!-- widget-text -->
-
-                            <div class="widget widget-contact">
-
-                                <ul class="inline">
-                                    <li>
-                                        <i class="fa fa-map-marker"></i>
-                                        4453 Meadow Lane, San Jose, CA 95134
-                                    </li>
-                                    <li>
-                                        <i class="fa fa-phone"></i>
-                                        315-411-8716
-                                    </li>
-                                    <li>
-                                        <i class="fa fa-envelope-o"></i>
-                                        <a href="mailto:info@smart-pixel.xyz">info@smart-pixel.xyz</a>
-                                    </li>
-                                </ul>
-
-                            </div><!-- widget-contact -->
-
-                            <div class="widget widget-pages">
-
-                                <ul class="inline">
-                                    <li><a href="#">Home</a></li>
-                                    <li><a href="#">About</a></li>
-                                    <li><a href="#">Services</a></li>
-                                    <li><a href="#">Team</a></li>
-                                    <li><a href="#">News</a></li>
-                                    <li><a href="#">Contact</a></li>
-                                </ul>
-
-                            </div><!-- widget-pages -->
-
-                            <div class="widget widget-text">
-
-                                <div>
-
-                                    <p class="copyright">
-                                        <small>Template by <a href="#">SmartPixel</a> &copy; All rights reserved</small>
-                                    </p>
-
-                                </div>
-
-                            </div><!-- widget-text -->
-
-                        </div><!-- col -->
-                    </div><!-- row -->
-                </div><!-- container -->
-
-            </div><!-- footer -->
-
-        </footer><!-- FOOTER -->
-
+       
     </div><!-- MAIN CONTAINER -->
 
 @endsection  

@@ -2,6 +2,8 @@
 
 @section('title', 'Contacto - Medicina Nuclear')
 
+@section('menu_contacto', 'active')
+
 @section('cuerpo')
     <!-- PAGE CONTENT -->
 	<div id="page-content">
@@ -12,7 +14,7 @@
 				<div class="row">
 					<div class="col-md-12">
 
-						<h1>Conatct</h1>
+						<h1>Contacto</h1>
 
 					</div><!-- col -->
 				</div><!-- row -->
@@ -96,7 +98,7 @@
 
 		<br>
 
-		<div class="map mb-0" data-zoom="15" data-height="600" data-address="Meadow Lane San Jose, CA 95134, USA" data-address-details="Here is our location"></div>
+		<div class="map mb-0" data-zoom="15" data-height="600" data-address="Circunvalación Pichucalco 216 Col. Moctezuma Tuxtla Gutiérrez, Chiapas" data-address-details="Aquí estamos ubicados"></div>
 
 	</div><!-- PAGE CONTENT -->
 

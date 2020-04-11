@@ -40,3 +40,5 @@
     <!-- CUSTOM & PAGES STYLE -->
     <link rel="stylesheet" href="assets/css/custom.css">
     <link rel="stylesheet" href="assets/css/pages-style.css">
+    <link rel="stylesheet" href="assets/css/alternative-styles/red3.css">
+    

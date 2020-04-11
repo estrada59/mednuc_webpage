@@ -9,6 +9,8 @@
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
 
+        
+
         <!-- Styles -->
         <style>
             html, body {
@@ -94,6 +96,9 @@
                     <a href="https://vapor.laravel.com">Vapor</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
+
+
+               
 
                 <?php   
                     //print_r($_ENV);  //ssss ff kkkk

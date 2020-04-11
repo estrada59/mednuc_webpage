@@ -131,7 +131,7 @@
                         <div>
 
                             <p class="no-margin-bottom">
-                                <small>Template by <a href="#">SmartPixel</a> &copy; All rights reserved</small>
+                                <small>Medicina Nuclear <a href="#">Estrada</a> &copy; 2020 All rights reserved</small>
                             </p>
 
                         </div>

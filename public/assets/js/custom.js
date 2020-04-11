@@ -362,7 +362,6 @@
 
         }
 
-
         // OWL Carousel //
         if (typeof $.fn.owlCarousel !== 'undefined') {
 

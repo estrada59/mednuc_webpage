@@ -11,7 +11,7 @@
         <!-- PAGE CONTENT -->
         <div id="page-content">
 
-            <div id="page-header" class="parallax" data-stellar-background-ratio="0.3"
+            <div id="page-header" class="parallax" data-stellar-background-ratio="0.7"
                 style="background-image: url(images/backgrounds/page-header-1.jpg);">
 
                 <div class="container">

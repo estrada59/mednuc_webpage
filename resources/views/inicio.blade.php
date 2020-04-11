@@ -27,7 +27,7 @@
                                     <p>Aliquam pharetra lacinia lacus vitae pretium. Morbi placerat risus sit <br>
                                         nulla efficitur. Vivamus ultrices semper ullamacorper placerat.</p>
 
-                                    <a class="btn btn-default waves" href="#">Make an appointment</a>
+                                    <!--<a class="btn btn-default waves" href="#">Make an appointment</a>-->
 
                                 </div><!-- col -->
                             </div><!-- row -->
@@ -93,8 +93,8 @@
 
                     <div class="headline text-center">
 
-                        <h6>Best medical solutions</h6>
-                        <h2>Welcome to SmartMed</h2>
+                        <h6>Las mejores soluciones médicas</h6>
+                        <h2>Bienvenidos a Medicina Nuclear</h2>
 
                     </div><!-- headline -->
 
@@ -216,8 +216,8 @@
 
                     <div class="headline text-center">
 
-                        <h6>Meet out team</h6>
-                        <h2>Our Specialists</h2>
+                        <h6>Conoce a nuestro equipo</h6>
+                        <h2>Especialista</h2>
 
                     </div><!-- headline -->
 
@@ -227,58 +227,7 @@
 
         <div class="container">
             <div class="row">
-                <div class="col-sm-6 col-lg-3">
-
-                    <div class="team-member">
-                        <div class="team-member-thumb">
-
-                            <a href="team.html"><img src="images/about/team/image-1.jpg" alt=""></a>
-
-                        </div><!-- team-member-thumb -->
-                        <div class="team-member-details">
-
-                            <h4><a href="team.html">Chris Martin</a></h4>
-                            <p>Dermatologist</p>
-
-                        </div><!-- team-member-details -->
-                    </div><!-- team-member -->
-
-                </div><!-- col -->
-                <div class="col-sm-6 col-lg-3">
-
-                    <div class="team-member">
-                        <div class="team-member-thumb">
-
-                            <a href="team.html"><img src="images/about/team/image-2.jpg" alt=""></a>
-
-                        </div><!-- team-member-thumb -->
-                        <div class="team-member-details">
-
-                            <h4><a href="team.html">Marisa Carter</a></h4>
-                            <p>Pediatrician</p>
-
-                        </div><!-- team-member-details -->
-                    </div><!-- team-member -->
-
-                </div><!-- col -->
-                <div class="col-sm-6 col-lg-3">
-
-                    <div class="team-member">
-                        <div class="team-member-thumb">
-
-                            <a href="team.html"><img src="images/about/team/image-3.jpg" alt=""></a>
-
-                        </div><!-- team-member-thumb -->
-                        <div class="team-member-details">
-
-                            <h4><a href="team.html">John William</a></h4>
-                            <p>Plastic Surgeon</p>
-
-                        </div><!-- team-member-details -->
-                    </div><!-- team-member -->
-
-                </div><!-- col -->
-                <div class="col-sm-6 col-lg-3">
+                <div class="col-sm-6 col-lg-4">
 
                     <div class="team-member">
                         <div class="team-member-thumb">
@@ -288,14 +237,14 @@
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
 
-                            <h4><a href="team.html">Martha Davis</a></h4>
-                            <p>Cardiologist</p>
+                            <h4><a href="team.html">Dr. Jorge Luis Cisneros Encalada</a></h4>
+                            <p>Cardiologo y Médico Nuclear</p>
 
                         </div><!-- team-member-details -->
                     </div><!-- team-member -->
 
                 </div><!-- col -->
-                <div class="col-sm-6 col-lg-3">
+                <div class="col-sm-6 col-lg-4">
 
                     <div class="team-member">
                         <div class="team-member-thumb">
@@ -305,64 +254,34 @@
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
 
-                            <h4><a href="team.html">Maria Johnson</a></h4>
-                            <p>General Doctor</p>
+                            <h4><a href="team.html">Viridiana Méndez Gutiérrez</a></h4>
+                            <p>POE y Lic. en enfermería</p>
 
                         </div><!-- team-member-details -->
                     </div><!-- team-member -->
 
                 </div><!-- col -->
-                <div class="col-sm-6 col-lg-3">
+
+                <div class="col-sm-6 col-lg-4">
 
                     <div class="team-member">
                         <div class="team-member-thumb">
 
-                            <a href="team.html"><img src="images/about/team/image-6.jpg" alt=""></a>
+                            <a href="team.html"><img src="images/about/team/image-5.jpg" alt=""></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
 
-                            <h4><a href="team.html">John Haynes</a></h4>
-                            <p>neurolog</p>
+                            <h4><a href="team.html">Stephanie Méndez Gutiérrez</a></h4>
+                            <p>POE y Lic. en enfermería</p>
 
                         </div><!-- team-member-details -->
                     </div><!-- team-member -->
 
                 </div><!-- col -->
-                <div class="col-sm-6 col-lg-3">
-
-                    <div class="team-member">
-                        <div class="team-member-thumb">
-
-                            <a href="team.html"><img src="images/about/team/image-7.jpg" alt=""></a>
-
-                        </div><!-- team-member-thumb -->
-                        <div class="team-member-details">
-
-                            <h4><a href="team.html">Amy Glover</a></h4>
-                            <p>Oncologist</p>
-
-                        </div><!-- team-member-details -->
-                    </div><!-- team-member -->
-
-                </div><!-- col -->
-                <div class="col-sm-6 col-lg-3">
-
-                    <div class="team-member">
-                        <div class="team-member-thumb">
-
-                            <a href="team.html"><img src="images/about/team/image-8.jpg" alt=""></a>
-
-                        </div><!-- team-member-thumb -->
-                        <div class="team-member-details">
-
-                            <h4><a href="team.html">Robert Stewart</a></h4>
-                            <p>Dental surgeon</p>
-
-                        </div><!-- team-member-details -->
-                    </div><!-- team-member -->
-
-                </div><!-- col -->
+               
+                
+                
             </div><!-- row -->
         </div><!-- container -->
 
@@ -376,14 +295,14 @@
                     <div class="row align-items-center">
                         <div class="col-lg-8">
 
-                            <h1>20 Years of Experience in various cases</h1>
-                            <p class="last">Etiam eu nulla eget ligula mollis faucibus. Pellentesque habitant morbi
-                                tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+                            <h1>17 Años de experiencia en varios casos</h1>
+                            <p class="last">Hemos hecho una gran variedad de estudios para el dianóstico y tratamiento 
+                                de varios padecimientos.</p>
 
                         </div><!-- col -->
                         <div class="col-lg-4 text-lg-right">
 
-                            <a class="btn btn-default waves mb-2 mb-md-0 mt-3 mt-lg-0" href="contact.html">Contact Now</a>
+                            <a class="btn btn-default waves mb-2 mb-md-0 mt-3 mt-lg-0" href="contacto">Comuníquese con nosotros</a>
 
                         </div><!-- col -->
                     </div><!-- row -->

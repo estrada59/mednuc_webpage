@@ -361,7 +361,7 @@ input[type="button"]:focus {
 	font-family: "smartmed-icons";
 	font-size: 38px;
 	line-height: 38px;
-	content: "\e902";
+	content: "\e900";
 	animation: scale 1s infinite;
 }
 

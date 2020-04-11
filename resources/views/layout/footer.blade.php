@@ -15,8 +15,7 @@
 
                             <br>
 
-                            <p>Interdum et duis sed fames ac ante ipsum primis in faucibus. Proin velit massa,
-                                venenatis quis tinci dunt eu, hendrerit porta mauris molestie lect eget sit amet.</p>
+                            <p>Nuestra misión es ser el gabinete de Medicina Nuclear con la mejor atención y calidad de servicio a sus clientes; con tecnología de punta y ser un centro de referencia en el sureste de México.</p>
 
                         </div>
 
@@ -27,15 +26,15 @@
 
                     <div class="widget widget-pages">
 
-                        <h5 class="widget-title">Specialities</h5>
+                        <h5 class="widget-title">Estudios</h5>
 
                         <ul>
-                            <li><a href="#">Internal Medicine</a></li>
-                            <li><a href="#">Emergency medicine</a></li>
-                            <li><a href="#">Medical tests</a></li>
-                            <li><a href="#">Dental surgery</a></li>
-                            <li><a href="#">Plastic surgery</a></li>
-                            <li><a href="#">Orthopedic surgery</a></li>
+                            <li><a href="#">Gammagrama Cardiaco</a></li>
+                            <li><a href="#">Gammagrama renal</a></li>
+                            <li><a href="#">Tratamiento con yodo (I-131)</a></li>
+                            <li><a href="#">Tratamiento para artritis</a></li>
+                            <li><a href="#">Gammagrama de tiroides</a></li>
+                            <li><a href="#">Gammagrama pulmonar</a></li>
                         </ul>
 
                     </div><!-- widget-pages -->
@@ -45,30 +44,18 @@
 
                     <div class="widget widget-recent-posts">
 
-                        <h5 class="widget-title">Latest News</h5>
+                        <h5 class="widget-title">Horarios:</h5>
 
                         <ul>
                             <li>
-                                <a class="post-title" href="#">10 Strangest Medical Cases</a>
-                                <div class="post-details">
-                                    by <a class="post-author" href="#">admin</a>
-                                    <a class="post-date" href="#">Jan 15, 2019</a>
-                                </div><!-- post-details -->
+                                <a class="post-title" href="#"> Lunes a Viernes 9:00 am | 7:00 pm</a>
+                                
                             </li>
                             <li>
-                                <a class="post-title" href="#">Treatment of gingivitis</a>
-                                <div class="post-details">
-                                    by <a class="post-author" href="#">admin</a>
-                                    <a class="post-date" href="#">Jan 12, 2019</a>
-                                </div><!-- post-details -->
+                                <a class="post-title" href="#"> Sábados 9:00 am | 1:00 pm</a>
+                                
                             </li>
-                            <li>
-                                <a class="post-title" href="#">An 'Universal' blood test</a>
-                                <div class="post-details">
-                                    by <a class="post-author" href="#">admin</a>
-                                    <a class="post-date" href="#">Jan 10, 2019</a>
-                                </div><!-- post-details -->
-                            </li>
+                            
                         </ul>
 
                     </div><!-- widget-recent-posts -->
@@ -78,20 +65,24 @@
 
                     <div class="widget widget-contact">
 
-                        <h5 class="widget-title">Contact</h5>
+                        <h5 class="widget-title">Contacto</h5>
 
                         <ul>
                             <li>
                                 <i class="fa fa-map-marker"></i>
-                                4453 Meadow Lane San Jose, <br class="d-none d-xl-block"> CA 95134
+                                Circunvalación Pichucalco 216 Col. Moctezuma  <br class="d-none d-xl-block"> Tuxtla Gutiérrez, Chiapas
                             </li>
                             <li>
                                 <i class="fa fa-phone"></i>
-                                315-411-8716
+                                961 602 9211 y 961 602 9479
+                            </li>
+                            <li>
+                                <i class="fa fa-whatsapp"></i>
+                                961 602 9211 
                             </li>
                             <li>
                                 <i class="fa fa-envelope-o"></i>
-                                <a href="mailto:info@smart-pixel.xyz">info@smart-pixel.xyz</a>
+                                <a href="mailto:recepcion@medicinanucleardechiapas.com">recepcion@medicinanucleardechiapas.com</a>
                             </li>
                         </ul>
 
@@ -117,7 +108,7 @@
                             <a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
                             <a class="instagram" href="#"><i class="fa fa-instagram"></i></a>
                             <a class="pinterest" href="#"><i class="fa fa-pinterest"></i></a>
-                            <a class="youtube" href="#"><i class="fa fa-youtube-play"></i></a>
+                            <a class="youtube" href="https://www.youtube.com/watch?v=f5FxLyHBppQ"><i class="fa fa-youtube-play"></i></a>
 
                         </div><!-- social-media -->
 
@@ -131,7 +122,7 @@
                         <div>
 
                             <p class="no-margin-bottom">
-                                <small>Medicina Nuclear <a href="#">Estrada</a> &copy; 2020 All rights reserved</small>
+                                <small>Medicina Nuclear  &copy; 2020 All rights reserved</small>
                             </p>
 
                         </div>

@@ -8,7 +8,7 @@
     <!-- PAGE CONTENT -->
 	<div id="page-content">
 
-		<div id="page-header" class="parallax" data-stellar-background-ratio="0.3" style="background-image: url(images/backgrounds/page-header-5.jpg);">
+		<div id="page-header" class="parallax" data-stellar-background-ratio="0.1" style="background-image: url(images/backgrounds/page-header-3.jpg);">
 
 			<div class="container">
 				<div class="row">
@@ -26,8 +26,8 @@
 			<div class="row">
 				<div class="col-md-8">
 
-					<h5><strong>Get in touch</strong></h5>
-
+					<h5><strong>Comunícate con nosotros</strong></h5>
+<!--
 					<form id="contact-form" name="contact-form" method="post" action="assets/php/send.php">
 						<fieldset>
 
@@ -61,15 +61,25 @@
 
 						</fieldset>
 					</form>
+-->
 
-				</div><!-- col -->
+						<div class="team-member">
+							<div class="team-member-thumb">
+
+								<a href="#"><img src="images/contact/numedics.jpg" alt=""></a>
+
+							</div><!-- team-member-thumb -->
+							
+						</div><!-- team-member -->
+				</div>
 				<div class="col-md-4">
 
-					<h5><strong>Contact Info</strong></h5>
+					<h5><strong>Información de contacto</strong></h5>
 
 					<br>
 
-					<p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit amet tellus blandit. Etiam nec odio vestibul nec odio vestibulum est mattis effic iturut magna. Etiam nec odio vestibulum est mattis effic iturut magna. </p>
+					<p>Si desea agendar una cita o pedir información sobre algún estudio o tratamiento
+						de medicina nuclear no dude en ponerse en contacto con nosotros con gusto le atenderemos.</p>
 
 					<br>
 
@@ -78,15 +88,15 @@
 						<ul>
 							<li>
 								<i class="fa fa-map-marker"></i>
-								4453 Meadow Lane, San Jose, CA 95134
+								Circunvalación Pichucalco 216 Col. Moctezuma Tuxtla Gutiérrez, Chiapas
 							</li>
 							<li>
 								<i class="fa fa-phone"></i>
-								315-411-8716
+								961 602 9211 y 961 602 9479
 							</li>
 							<li>
 								<i class="fa fa-envelope-o"></i>
-								<a href="mailto:info@smart-pixel.xyz">info@smart-pixel.xyz</a>
+								<a href="mailto:recepcion@medicinanucleardechiapas.com">recepcion@medicinanucleardechiapas.com</a>
 							</li>
 						</ul>
 

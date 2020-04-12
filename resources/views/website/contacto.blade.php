@@ -8,7 +8,7 @@
     <!-- PAGE CONTENT -->
 	<div id="page-content">
 
-		<div id="page-header" class="parallax" data-stellar-background-ratio="0.1" style="background-image: url(images/backgrounds/page-header-3.jpg);">
+		<div id="page-header" class="parallax" data-stellar-background-ratio="0.7" style="background-image: url(images/backgrounds/page-header-3.jpg);">
 
 			<div class="container">
 				<div class="row">
@@ -93,6 +93,10 @@
 							<li>
 								<i class="fa fa-phone"></i>
 								961 602 9211 y 961 602 9479
+							</li>
+							<li>
+								<i class="fa fa-whatsapp"></i>
+								961 602 9211 
 							</li>
 							<li>
 								<i class="fa fa-envelope-o"></i>

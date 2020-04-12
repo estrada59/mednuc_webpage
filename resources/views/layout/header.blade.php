@@ -7,7 +7,7 @@
 
                 <!-- LOGO -->
                 <div id="logo">
-                    <a href="inicio">
+                    <a href="{{ route('inicio') }}">
                     <img src='assets/images/logo.png' alt="">
                     </a>
                 </div><!-- LOGO -->
@@ -22,17 +22,17 @@
                     
                     <ul class="menu clearfix" id="menu">
                         <li class= "@yield('menu_inicio')">
-                            <a href="inicio">Inicio</a>    
+                            <a href="{{ route('inicio') }}">Inicio</a>    
                         </li>
                         <li class= "@yield('menu_nosotros')">
-                            <a href="nosotros">Nosotros</a>
+                            <a href="{{ route('nosotros') }}">Nosotros</a>
                         </li>
                         <li class= "@yield('menu_servicios')"">
-                            <a href="servicios">Servicios</a>
+                            <a href="{{ route('servicios') }}">Servicios</a>
                         </li>
                     
                         <li class= "@yield('menu_contacto')">
-                            <a href="contacto">Contacto</a>
+                            <a href="{{ route('contacto') }}">Contacto</a>
                         </li>
 
                           <!--

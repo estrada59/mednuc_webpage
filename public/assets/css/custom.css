@@ -357,7 +357,7 @@ input[type="button"]:focus {
 .headline:before {
 	display: inline-block;
 	margin-bottom: 10px;
-	color: #02a9ff;
+	color: #ad0000;
 	font-family: "smartmed-icons";
 	font-size: 38px;
 	line-height: 38px;

@@ -13,27 +13,15 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('inicio');
-});
+Route::get('/', 'website\InicioController@index')->name('inicio');
 
-Route::get('/inicio', function () {
-    return view('inicio');
-});
+Route::get('/inicio', 'website\InicioController@index')->name('inicio');
 
-Route::get('/inicio/{id}', function ($id) {
-    return 'id: '.$id;
-});
+Route::get('/nosotros', 'website\NosotrosController@index')->name('nosotros');
 
-Route::get('/nosotros', function () {
-    return view('nosotros');
-});
+Route::get('/servicios', 'website\ServiciosController@index')->name('servicios');
 
-Route::get('/servicios', function () {
-    return view('servicios');
-});
+Route::get('/contacto', 'website\ContactoController@index')->name('contacto');
 
-Route::get('/contacto', function () {
-    return view('contacto');
-});
+
 

@@ -385,9 +385,9 @@
                 navText: false,
                 dots: true,
                 mouseDrag: false,
-                touchDrag: true,
-                animateIn: 'fadeIn',
-                animateOut: 'fadeOut'
+                touchDrag: true
+                // animateIn: 'fadeIn',
+                // animateOut: 'fadeOut'
             });
 
             main_slider.on('translate.owl.carousel', function(event) {

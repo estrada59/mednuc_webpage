@@ -8,6 +8,7 @@
 
     <!-- FAVICON AND APPLE TOUCH -->
     <link rel="shortcut icon" href="favicon.png">
+    <link rel="icon" href="favicon.ico" type="image/x-icon"/>
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-180x180.png">
     <meta name="msapplication-TileImage" content="mstile.png">
     <meta name="msapplication-TileColor" content="#d70011">

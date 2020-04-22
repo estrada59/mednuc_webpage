@@ -24,10 +24,10 @@
 
                                     <h1>El mejor equipo médico</h1>
 
-                                    <p>Aliquam pharetra lacinia lacus vitae pretium. Morbi placerat risus sit <br>
-                                        nulla efficitur. Vivamus ultrices semper ullamacorper placerat.</p>
+                                    <p>Contamos con equipo médico especializado en medicina nuclear<br>
+                                       para proporcionarte el mejor servicio.</p>
 
-                                    <!--<a class="btn btn-default waves" href="#">Make an appointment</a>-->
+                                    <a class="btn btn-default waves" href="{{ route("contacto")}}">Haz una cita</a>
 
                                 </div><!-- col -->
                             </div><!-- row -->
@@ -48,10 +48,10 @@
 
                                     <h1>Nosotros estamos aquí para ti</h1>
 
-                                    <p>Aliquam pharetra lacinia lacus vitae pretium. Morbi placerat risus sit <br>
-                                        nulla efficitur. Vivamus ultrices semper ullamacorper placerat.</p>
+                                    <p>Ofrecemos servicios de diagnóstico y tratamiento en Medicina Nuclear.<br>
+                                        </p>
 
-                                    <a class="btn btn-default waves" href="appointment.html">Make an appointment</a>
+                                    <a class="btn btn-default waves" href="{{ route("contacto")}}">Haz una cita</a>
 
                                 </div><!-- col -->
                             </div><!-- row -->
@@ -70,12 +70,15 @@
                             <div class="row">
                                 <div class="col-md-12">
 
-                                    <h1>Best medical healthcare solutions</h1>
+                                    <h1>Nuestra visión</h1>
 
-                                    <p>Aliquam pharetra lacinia lacus vitae pretium. Morbi placerat risus sit <br>
-                                        nulla efficitur. Vivamus ultrices semper ullamacorper placerat.</p>
+                                    <p>Ser un centro de referencia en el sureste mexicano
+                                        <br>
+                                        proporcionando un servicio de gabinete de Medicina Nuclear, 
+                                        <br>
+                                        con la mejor atención y calidad de servicio a nuestros clientes.</p>
 
-                                    <a class="btn btn-default waves" href="appointment.html">Make an appointment</a>
+                                    <a class="btn btn-default waves" href="{{ route("contacto")}}">Haz una cita</a>
 
                                 </div><!-- col -->
                             </div><!-- row -->
@@ -102,56 +105,7 @@
             </div><!-- row -->
         </div><!-- container -->
 
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4">
-
-                    <div class="image-box">
-
-                        <div class="image-box-thumbnail">
-                            <img src="images/services/image-1.jpg" alt="">
-                        </div><!-- image-box-thumbnail -->
-
-                        <h4>Plastic Surgery</h4>
-
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque odio, pulvinar ut urna ut venenatis.</p>
-
-                    </div><!-- image-box -->
-
-                </div><!-- col -->
-                <div class="col-md-4">
-
-                    <div class="image-box">
-
-                        <div class="image-box-thumbnail">
-                            <img src="images/services/image-2.jpg" alt="">
-                        </div><!-- image-box-thumbnail -->
-
-                        <h4>Medical tests</h4>
-
-                        <p>Mauris finibus eros et purus imperdiet, et blandit neque tincidunt. Nulla facilisi in elementum sed duis.</p>
-
-                    </div><!-- image-box -->
-
-                </div><!-- col -->
-                <div class="col-md-4">
-
-                    <div class="image-box">
-
-                        <div class="image-box-thumbnail">
-                            <img src="images/services/image-3.jpg" alt="">
-                        </div><!-- image-box-thumbnail -->
-
-                        <h4>Dental surgery</h4>
-
-                        <p>Integer sit amet pharetra nibh. Donec hendrerit ligula eget urna porta, finibus auctor tortor tincidunt.</p>
-
-                    </div><!-- image-box -->
-
-                </div><!-- col -->
-            </div><!-- row -->
-        </div><!-- container -->
-
+      
         <section class="full-section dark-section parallax" id="section-1" data-stellar-background-ratio="0.3">
 
             <div class="full-section-overlay-color"></div>
@@ -160,46 +114,36 @@
 
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-3 col-sm-6">
 
-                            <div class="counter">
-
-                                <i class="smartmed-icon-gavel"></i>
-                                <div class="counter-value" data-value="2533"></div>
-                                <div class="counter-details">Successful Cases</div>
-
-                            </div><!-- counter -->
-
-                        </div><!-- col -->
-                        <div class="col-md-3 col-sm-6">
+                        <div class="col-md-4 col-sm-4">
 
                             <div class="counter">
 
                                 <i class="smartmed-icon-prisoner"></i>
-                                <div class="counter-value" data-value="1257"></div>
-                                <div class="counter-details">Satisfied Clients</div>
+                                <div class="counter-value" data-value="4270"></div>
+                                <div class="counter-details">Pacientes atendidos</div>
 
                             </div><!-- counter -->
 
                         </div><!-- col -->
-                        <div class="col-md-3 col-sm-6">
+                        <div class="col-md-4 col-sm-4">
 
                             <div class="counter">
 
                                 <i class="smartmed-icon-judge"></i>
-                                <div class="counter-value" data-value="30"></div>
-                                <div class="counter-details">Doctors</div>
+                                <div class="counter-value" data-value="1"></div>
+                                <div class="counter-details">Doctor</div>
 
                             </div><!-- counter -->
 
                         </div><!-- col -->
-                        <div class="col-md-3 col-sm-6">
+                        <div class="col-md-4 col-sm-4">
 
                             <div class="counter">
 
                                 <i class="smartmed-icon-typewriter"></i>
-                                <div class="counter-value" data-value="20" data-symbol-before="+" data-symbol-after="k"></div>
-                                <div class="counter-details">Working Hours</div>
+                                <div class="counter-value" data-value="80" data-symbol-before="+" data-symbol-after=""></div>
+                                <div class="counter-details">Servicios</div>
 
                             </div><!-- counter -->
 
@@ -227,23 +171,7 @@
 
         <div class="container">
             <div class="row">
-                <div class="col-sm-6 col-lg-4">
-
-                    <div class="team-member">
-                        <div class="team-member-thumb">
-
-                            <a href="team.html"><img src="images/about/team/image-4.jpg" alt=""></a>
-
-                        </div><!-- team-member-thumb -->
-                        <div class="team-member-details">
-
-                            <h4><a href="team.html">Dr. Jorge Luis Cisneros Encalada</a></h4>
-                            <p>Cardiologo y Médico Nuclear</p>
-
-                        </div><!-- team-member-details -->
-                    </div><!-- team-member -->
-
-                </div><!-- col -->
+               
                 <div class="col-sm-6 col-lg-4">
 
                     <div class="team-member">
@@ -267,7 +195,25 @@
                     <div class="team-member">
                         <div class="team-member-thumb">
 
-                            <a href="team.html"><img src="images/about/team/image-5.jpg" alt=""></a>
+                            <a href="team.html"><img src="images/about/team/image-4.jpg" alt=""></a>
+
+                        </div><!-- team-member-thumb -->
+                        <div class="team-member-details">
+
+                            <h4><a href="team.html">Dr. Jorge Luis Cisneros Encalada</a></h4>
+                            <p>Médico Nuclear</p>
+
+                        </div><!-- team-member-details -->
+                    </div><!-- team-member -->
+
+                </div><!-- col -->
+
+                <div class="col-sm-6 col-lg-4">
+
+                    <div class="team-member">
+                        <div class="team-member-thumb">
+
+                            <a href="team.html"><img src="images/about/team/image-3.jpg" alt=""></a>
 
                         </div><!-- team-member-thumb -->
                         <div class="team-member-details">
@@ -279,9 +225,7 @@
                     </div><!-- team-member -->
 
                 </div><!-- col -->
-               
-                
-                
+                   
             </div><!-- row -->
         </div><!-- container -->
 
@@ -317,8 +261,8 @@
 
                     <div class="headline text-center">
 
-                        <h6>What we do</h6>
-                        <h2>Our Services</h2>
+                        <h6>¿Qué hacemos nosotros?</h6>
+                        <h2>Nuestros servicios</h2>
 
                     </div><!-- headline -->
 
@@ -328,6 +272,7 @@
 
         <div class="container">
             <div class="row">
+                {{-- gammagrama pulmonar --}}
                 <div class="col-md-6 col-lg-4">
 
                     <div class="service-box style-1 wow fadeInUp">
@@ -336,70 +281,17 @@
 
                         <div class="service-box-content">
 
-                            <h4>Internal Medicine</h4>
+                            <h4>Gammagrama Pulmonar</h4>
 
-                            <p>Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Pellen tesque vitae
-                                dui interdum, rhoncus velit ipsum enim sed est.</p>
-
-                        </div><!-- service-box-content -->
-
-                    </div><!-- service-box -->
-
-                </div><!-- col -->
-                <div class="col-md-6 col-lg-4">
-
-                    <div class="service-box style-1 wow fadeInUp" data-wow-delay="0.1s">
-
-                        <i class="smartmed-icon-first-aid-kit-2"></i>
-
-                        <div class="service-box-content">
-
-                            <h4>Emergency medicine</h4>
-
-                            <p>Etiam eu nulla eget ligula mollis faucibus. Pellentesque habitant morbi
-                                tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+                            <p>La gammagrafía pulmonar permite estudiar el intercambio gaseoso que se lleva acabo en los pulmones. En el estudio ventilatorio visualizamos la ausencia de llegada de aire a determinadas áreas pulmonares. Y en la perfusoria detectamos en que zonas del tejido pulmonar no reciben aporte sanguíneo.</p>
 
                         </div><!-- service-box-content -->
 
                     </div><!-- service-box -->
 
                 </div><!-- col -->
-                <div class="col-md-6 col-lg-4">
 
-                    <div class="service-box style-1 wow fadeInUp" data-wow-delay="0.2s">
-
-                        <i class="smartmed-icon-nuclear"></i>
-
-                        <div class="service-box-content">
-
-                            <h4>Radiology</h4>
-
-                            <p>Morbi aliquam augue velit, id dapibus elit accumsan ut. Pellentesque a sem sed metus
-                                fringilla posuere eu ac metus ex non sapien.</p>
-
-                        </div><!-- service-box-content -->
-
-                    </div><!-- service-box -->
-
-                </div><!-- col -->
-                <div class="col-md-6 col-lg-4">
-
-                    <div class="service-box style-1 wow fadeInUp">
-
-                        <i class="smartmed-icon-teeth"></i>
-
-                        <div class="service-box-content">
-
-                            <h4>Dental surgery</h4>
-
-                            <p>Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Pellen tesque vitae
-                                dui interdum, rhoncus velit ipsum enim sed est.</p>
-
-                        </div><!-- service-box-content -->
-
-                    </div><!-- service-box -->
-
-                </div><!-- col -->
+                {{-- gammagrama cardiaco --}}
                 <div class="col-md-6 col-lg-4">
 
                     <div class="service-box style-1 wow fadeInUp" data-wow-delay="0.1s">
@@ -408,16 +300,36 @@
 
                         <div class="service-box-content">
 
-                            <h4>Cardiothoracic surgery</h4>
+                            <h4>Gammagrama Cardiaco</h4>
 
-                            <p>Etiam eu nulla eget ligula mollis faucibus. Pellentesque habitant morbi
-                                tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+                            <p>El infarto agudo del miocardio es la 1a. causa de muerte en hombres. Este estudio es el método de diagnóstico de elección para la detección oportuna de riesgo de infarto.</p>
 
                         </div><!-- service-box-content -->
 
                     </div><!-- service-box -->
 
                 </div><!-- col -->
+                
+                {{-- tratamiento con yodo --}}
+                <div class="col-md-6 col-lg-4">
+
+                    <div class="service-box style-1 wow fadeInUp" data-wow-delay="0.2s">
+
+                        <i class="smartmed-icon-nuclear"></i>
+
+                        <div class="service-box-content">
+
+                            <h4>Tratamientos con Yodo (I-131)</h4>
+
+                            <p>La finalidad del tratamiento es disminuir la actividad excesiva de la glándula, reducir o evitar un incremento excesivo de tamaño y en otros casos erradicar la presencia de células funcionales.</p>
+
+                        </div><!-- service-box-content -->
+
+                    </div><!-- service-box -->
+
+                </div><!-- col -->
+
+                {{-- gammagrama óseo --}}
                 <div class="col-md-6 col-lg-4">
 
                     <div class="service-box style-1 wow fadeInUp" data-wow-delay="0.2s">
@@ -426,16 +338,55 @@
 
                         <div class="service-box-content">
 
-                            <h4>Orthopedic surgery</h4>
+                            <h4>Gammagrama Óseo</h4>
 
-                            <p>Morbi aliquam augue velit, id dapibus elit accumsan ut. Pellentesque a sem sed metus
-                                fringilla posuere eu ac metus ex non sapien.</p>
+                            <p>La gammagrafía ósea es la mas frecuente de nuestras exploraciones, debido a su disponibilidad y gran sensibilidad para detectar alteraciones en el metabolismo óseo, bien sean de características benignas o malignos.</p>
 
                         </div><!-- service-box-content -->
 
                     </div><!-- service-box -->
 
                 </div><!-- col -->
+
+                {{-- Samario 153 --}}
+                <div class="col-md-6 col-lg-4">
+
+                    <div class="service-box style-1 wow fadeInUp" data-wow-delay="0.1s">
+
+                        <i class="smartmed-icon-atoms"></i>
+
+                        <div class="service-box-content">
+
+                            <h4>Tratamiento con Samario 153</h4>
+
+                            <p>Se emplea con fines diagnósticos y en terapia paliativa del dolor producido por metástasis óseas, por lo general producidas por cáncer de próstata.</p>
+
+                        </div><!-- service-box-content -->
+
+                    </div><!-- service-box -->
+
+                </div><!-- col -->
+
+                {{-- gammagrama gastroesofágico --}}
+                <div class="col-md-6 col-lg-4">
+
+                    <div class="service-box style-1 wow fadeInUp">
+
+                        <i class="smartmed-icon-stomach"></i>
+
+                        <div class="service-box-content">
+
+                            <h4>Gammagrama Gastroesofágico</h4>
+
+                            <p>Es una exploración que revela en TIEMPO REAL la existencia de reflujo gastroesofágico. Además de tratarse de un estudio de fácil realización, es poco invasivo. Por lo que es frecuentemente empleado ante la sospecha de reflujo gastroesofágico en niños.</p>
+
+                        </div><!-- service-box-content -->
+
+                    </div><!-- service-box -->
+
+                </div><!-- col -->
+                
+                
             </div><!-- row -->
         </div><!-- container -->
 

@@ -23,5 +23,9 @@ Route::get('/servicios', 'website\ServiciosController@index')->name('servicios')
 
 Route::get('/contacto', 'website\ContactoController@index')->name('contacto');
 
+// Route::get('/', function () {
+//     return view('welcome');
+// });
+
 
 

@@ -15,7 +15,9 @@
 
                             <br>
 
-                            <p>Nuestra misión es ser el gabinete de Medicina Nuclear con la mejor atención y calidad de servicio a sus clientes; con tecnología de punta y ser un centro de referencia en el sureste de México.</p>
+                            <p align="justify">Nuestra visión es ser un centro de referencia en el sureste mexicano,
+                                proporcionando un servicio de gabinete de Medicina Nuclear,
+                                con la mejor atención y calidad de servicio a nuestros clientes.</p>
 
                         </div>
 
@@ -26,15 +28,15 @@
 
                     <div class="widget widget-pages">
 
-                        <h5 class="widget-title">Estudios</h5>
+                        <h5 class="widget-title">Dr. Jorge L. Cisneros Encalada</h5>
 
                         <ul>
-                            <li><a href="#">Gammagrama Cardiaco</a></li>
-                            <li><a href="#">Gammagrama renal</a></li>
-                            <li><a href="#">Tratamiento con yodo (I-131)</a></li>
-                            <li><a href="#">Tratamiento para artritis</a></li>
-                            <li><a href="#">Gammagrama de tiroides</a></li>
-                            <li><a href="#">Gammagrama pulmonar</a></li>
+                           
+                            <li>Cédula Profesional.:</li>
+                            <p align="center">1576031</p>
+                            <li>Cédula Especialidad:</li>
+                            <p align="center">AECEM-24430</p>
+
                         </ul>
 
                     </div><!-- widget-pages -->
@@ -102,7 +104,7 @@
 
                     <div class="widget widget-social">
 
-                        <div class="social-media">
+                        {{-- <div class="social-media">
 
                             <a class="facebook" href="#"><i class="fa fa-facebook"></i></a>
                             <a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
@@ -110,7 +112,7 @@
                             <a class="pinterest" href="#"><i class="fa fa-pinterest"></i></a>
                             <a class="youtube" href="https://www.youtube.com/watch?v=f5FxLyHBppQ"><i class="fa fa-youtube-play"></i></a>
 
-                        </div><!-- social-media -->
+                        </div><!-- social-media --> --}}
 
                     </div><!-- widget-social -->
 

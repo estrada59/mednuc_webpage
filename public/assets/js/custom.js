@@ -187,7 +187,7 @@
                     $(this).jQuerySimpleCounter({
                         start: 0,
                         end: $(this).attr("data-value"),
-                        duration: 2000
+                        duration: 15000
                     });
                 }
 

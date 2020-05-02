@@ -6,7 +6,6 @@
 
 @section('cuerpo')
     
-
     <!-- PAGE CONTENT -->
     <div id="page-content">
 

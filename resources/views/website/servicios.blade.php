@@ -26,119 +26,245 @@
 
         <div class="container">
             <div class="row">
-                <div class="col-md-6 col-lg-4">
+                <div class="col-sm-6 col-lg-3">
 
-                    <div class="service-box style-2 wow fadeInUp">
+                    <div class="team-member">
+                        <div class="team-member-thumb rounded-circle">
 
-                        <i class="smartmed-icon-lungs"></i>
+                            <a href="{{route('gamm_cardiaco')}}"><img src="images/about/team/image-1.jpg" alt=""></a>
 
-                        <div class="service-box-content">
+                        </div><!-- team-member-thumb -->
+                        <div class="team-member-details">
 
-                            <h4>Internal Medicine</h4>
+                            <h4><a href="{{route('gamm_cardiaco')}}">Gammagrama Cardiaco</a></h4>
+                            
 
-                            <p>Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Pellen tesque vitae
-                                dui interdum, rhoncus velit ipsum enim sed est.</p>
-
-                        </div><!-- service-box-content -->
-
-                    </div><!-- service-box -->
-
-                </div><!-- col -->
-                <div class="col-md-6 col-lg-4">
-
-                    <div class="service-box style-2 wow fadeInUp" data-wow-delay="0.1s">
-
-                        <i class="smartmed-icon-first-aid-kit-2"></i>
-
-                        <div class="service-box-content">
-
-                            <h4>Emergency medicine</h4>
-
-                            <p>Etiam eu nulla eget ligula mollis faucibus. Pellentesque habitant morbi
-                                tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-
-                        </div><!-- service-box-content -->
-
-                    </div><!-- service-box -->
+                        </div><!-- team-member-details -->
+                    </div><!-- team-member -->
 
                 </div><!-- col -->
-                <div class="col-md-6 col-lg-4">
+                <div class="col-sm-6 col-lg-3">
 
-                    <div class="service-box style-2 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="team-member">
+                        <div class="team-member-thumb rounded-circle">
 
-                        <i class="smartmed-icon-nuclear"></i>
+                            <a href="{{route('gamm_oseo')}}"><img src="images/about/team/image-2.jpg" alt=""></a>
 
-                        <div class="service-box-content">
+                        </div><!-- team-member-thumb -->
+                        <div class="team-member-details">
 
-                            <h4>Radiology</h4>
+                            <h4><a href="{{route('gamm_oseo')}}">Gammagrama Óseo</a></h4>
 
-                            <p>Morbi aliquam augue velit, id dapibus elit accumsan ut. Pellentesque a sem sed metus
-                                fringilla posuere eu ac metus ex non sapien.</p>
-
-                        </div><!-- service-box-content -->
-
-                    </div><!-- service-box -->
+                        </div><!-- team-member-details -->
+                    </div><!-- team-member -->
 
                 </div><!-- col -->
-                <div class="col-md-6 col-lg-4">
+                <div class="col-sm-6 col-lg-3">
 
-                    <div class="service-box style-2 wow fadeInUp">
+                    <div class="team-member">
+                        <div class="team-member-thumb rounded-circle">
 
-                        <i class="smartmed-icon-teeth"></i>
+                            <a href="{{route('gamm_cerebral')}}"><img src="images/about/team/image-3.jpg" alt=""></a>
 
-                        <div class="service-box-content">
+                        </div><!-- team-member-thumb -->
+                        <div class="team-member-details">
 
-                            <h4>Dental surgery</h4>
+                            <h4><a href="{{route('gamm_cerebral')}}">Gammagrama de perfusión cerebral</a></h4>
 
-                            <p>Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Pellen tesque vitae
-                                dui interdum, rhoncus velit ipsum enim sed est.</p>
-
-                        </div><!-- service-box-content -->
-
-                    </div><!-- service-box -->
+                        </div><!-- team-member-details -->
+                    </div><!-- team-member -->
 
                 </div><!-- col -->
-                <div class="col-md-6 col-lg-4">
+                <div class="col-sm-6 col-lg-3">
 
-                    <div class="service-box style-2 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="team-member">
+                        <div class="team-member-thumb rounded-circle">
 
-                        <i class="smartmed-icon-cardiogram-4"></i>
+                            <a href="{{route('gamm_tiroideo')}}"><img src="images/about/team/image-4.jpg" alt=""></a>
 
-                        <div class="service-box-content">
+                        </div><!-- team-member-thumb -->
+                        <div class="team-member-details">
 
-                            <h4>Cardiothoracic surgery</h4>
+                            <h4><a href="{{route('gamm_tiroideo')}}">Gammagrama Tiroideo</a></h4>
+                            
 
-                            <p>Etiam eu nulla eget ligula mollis faucibus. Pellentesque habitant morbi
-                                tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-
-                        </div><!-- service-box-content -->
-
-                    </div><!-- service-box -->
+                        </div><!-- team-member-details -->
+                    </div><!-- team-member -->
 
                 </div><!-- col -->
-                <div class="col-md-6 col-lg-4">
 
-                    <div class="service-box style-2 wow fadeInUp" data-wow-delay="0.2s">
+                <div class="col-sm-6 col-lg-3">
 
-                        <i class="smartmed-icon-bones"></i>
+                    <div class="team-member">
+                        <div class="team-member-thumb rounded-circle">
 
-                        <div class="service-box-content">
+                            <a href="{{route('gamm_hepatoesplenico')}}"><img src="images/about/team/image-5.jpg" alt=""></a>
 
-                            <h4>Orthopedic surgery</h4>
+                        </div><!-- team-member-thumb -->
+                        <div class="team-member-details">
 
-                            <p>Morbi aliquam augue velit, id dapibus elit accumsan ut. Pellentesque a sem sed metus
-                                fringilla posuere eu ac metus ex non sapien.</p>
+                            <h4><a href="{{route('gamm_hepatoesplenico')}}">Gammagrama Hepatoesplénico</a></h4>
+                            
 
-                        </div><!-- service-box-content -->
+                        </div><!-- team-member-details -->
+                    </div><!-- team-member -->
 
-                    </div><!-- service-box -->
+                </div><!-- col -->
+                <div class="col-sm-6 col-lg-3">
+
+                    <div class="team-member">
+                        <div class="team-member-thumb rounded-circle">
+
+                            <a href="{{route('gamm_renal')}}"><img src="images/about/team/image-6.jpg" alt=""></a>
+
+                        </div><!-- team-member-thumb -->
+                        <div class="team-member-details">
+
+                            <h4><a href="{{route('gamm_renal')}}">Gammagrama Renal</a></h4>
+                            
+
+                        </div><!-- team-member-details -->
+                    </div><!-- team-member -->
+
+                </div><!-- col -->
+                <div class="col-sm-6 col-lg-3">
+
+                    <div class="team-member">
+                        <div class="team-member-thumb rounded-circle">
+
+                            <a href="{{route('gamm_mama')}}"><img src="images/about/team/image-7.jpg" alt=""></a>
+
+                        </div><!-- team-member-thumb -->
+                        <div class="team-member-details">
+
+                            <h4><a href="{{route('gamm_mama')}}">Gammagrama de mama</a></h4>
+                            
+
+                        </div><!-- team-member-details -->
+                    </div><!-- team-member -->
+
+                </div><!-- col -->
+                <div class="col-sm-6 col-lg-3">
+
+                    <div class="team-member">
+                        <div class="team-member-thumb rounded-circle">
+
+                            <a href="{{route('gamm_pulmonar')}}"><img src="images/about/team/image-8.jpg" alt=""></a>
+
+                        </div><!-- team-member-thumb -->
+                        <div class="team-member-details">
+
+                            <h4><a href="{{route('gamm_pulmonar')}}">Gammagrama Pulmonar</a></h4>
+                            
+
+                        </div><!-- team-member-details -->
+                    </div><!-- team-member -->
+
+                </div><!-- col -->
+
+                <div class="col-sm-6 col-lg-3">
+
+                    <div class="team-member">
+                        <div class="team-member-thumb rounded-circle">
+
+                            <a href="{{route('trat_cancer_prostata')}}"><img src="images/about/team/image-5.jpg" alt=""></a>
+
+                        </div><!-- team-member-thumb -->
+                        <div class="team-member-details">
+
+                            <h4><a href="{{route('trat_cancer_prostata')}}">Tratamiento para cancer de prostata</a></h4>
+                            
+
+                        </div><!-- team-member-details -->
+                    </div><!-- team-member -->
+
+                </div><!-- col -->
+                <div class="col-sm-6 col-lg-3">
+
+                    <div class="team-member">
+                        <div class="team-member-thumb rounded-circle">
+
+                            <a href="{{route('trat_yodo')}}"><img src="images/about/team/image-6.jpg" alt=""></a>
+
+                        </div><!-- team-member-thumb -->
+                        <div class="team-member-details">
+
+                            <h4><a href="{{route('trat_yodo')}}">Tratamiento de yodo (I-131)</a></h4>
+                            
+
+                        </div><!-- team-member-details -->
+                    </div><!-- team-member -->
+
+                </div><!-- col -->
+                <div class="col-sm-6 col-lg-3">
+
+                    <div class="team-member">
+                        <div class="team-member-thumb rounded-circle">
+
+                            <a href="{{route('trat_artritis')}}"><img src="images/about/team/image-7.jpg" alt=""></a>
+
+                        </div><!-- team-member-thumb -->
+                        <div class="team-member-details">
+
+                            <h4><a href="{{route('trat_artritis')}}">Tratamiento para Artritis</a></h4>
+                            
+
+                        </div><!-- team-member-details -->
+                    </div><!-- team-member -->
+
+                </div><!-- col -->
+                <div class="col-sm-6 col-lg-3">
+
+                    <div class="team-member">
+                        <div class="team-member-thumb rounded-circle">
+
+                            <a href="{{route('spect_ct')}}"><img src="images/about/team/image-8.jpg" alt=""></a>
+
+                        </div><!-- team-member-thumb -->
+                        <div class="team-member-details">
+
+                            <h4><a href="{{route('spect_ct')}}">SPECT-CT</a></h4>
+                            
+
+                        </div><!-- team-member-details -->
+                    </div><!-- team-member -->
 
                 </div><!-- col -->
             </div><!-- row -->
         </div><!-- container -->
 
+        
+
         <br><br>
 
+
+        <section class="full-section dark-section parallax" id="section-2" data-stellar-background-ratio="0.3">
+
+            <div class="full-section-overlay-color"></div>
+
+            <div class="full-section-container">
+
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-lg-8">
+
+                            <h1>17 Años de experiencia en varios casos</h1>
+                            <p class="last">Hemos hecho una gran variedad de estudios para el dianóstico y tratamiento 
+                                de varios padecimientos.</p>
+
+                        </div><!-- col -->
+                        <div class="col-lg-4 text-lg-right">
+
+                            <a class="btn btn-default waves mb-2 mb-md-0 mt-3 mt-lg-0" href="contacto.php">Comuníquese con nosotros</a>
+
+                        </div><!-- col -->
+                    </div><!-- row -->
+                </div><!-- container -->
+
+            </div><!-- full-section-container -->
+        </section><!-- full-section -->
+
+        
         <div class="container">
             <div class="row">
                 <div class="col-md-10 ml-auto mr-auto">
@@ -151,83 +277,12 @@
             </div><!-- row -->
         </div><!-- container -->
 
-        <section class="full-section dark-section parallax" id="section-2" data-stellar-background-ratio="0.3">
-
-            <div class="full-section-overlay-color"></div>
-
-            <div class="full-section-container">
-
-                <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-lg-8">
-
-                            <h1>20 Years of Experience in various cases</h1>
-                            <p class="last">Etiam eu nulla eget ligula mollis faucibus. Pellentesque habitant morbi
-                                tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-
-                        </div><!-- col -->
-                        <div class="col-lg-4 text-lg-right">
-
-                            <a class="btn btn-default waves mb-2 mb-md-0 mt-3 mt-lg-0" href="contact.html">Contact Now</a>
-
-                        </div><!-- col -->
-                    </div><!-- row -->
-                </div><!-- container -->
-
-            </div><!-- full-section-container -->
-        </section><!-- full-section -->
-
-        <div class="container mb-5">
-            <div class="row">
-                <div class="col-md-4">
-
-                    <div class="image-box">
-
-                        <div class="image-box-thumbnail">
-                            <img src="images/services/image-1.jpg" alt="">
-                        </div><!-- image-box-thumbnail -->
-
-                        <h4>Plastic Surgery</h4>
-
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque odio, pulvinar ut urna ut venenatis.</p>
-
-                    </div><!-- image-box -->
-
-                </div><!-- col -->
-                <div class="col-md-4">
-
-                    <div class="image-box">
-
-                        <div class="image-box-thumbnail">
-                            <img src="images/services/image-2.jpg" alt="">
-                        </div><!-- image-box-thumbnail -->
-
-                        <h4>Medical tests</h4>
-
-                        <p>Mauris finibus eros et purus imperdiet, et blandit neque tincidunt. Nulla facilisi in elementum sed duis.</p>
-
-                    </div><!-- image-box -->
-
-                </div><!-- col -->
-                <div class="col-md-4">
-
-                    <div class="image-box">
-
-                        <div class="image-box-thumbnail">
-                            <img src="images/services/image-3.jpg" alt="">
-                        </div><!-- image-box-thumbnail -->
-
-                        <h4>Dental surgery</h4>
-
-                        <p>Integer sit amet pharetra nibh. Donec hendrerit ligula eget urna porta, finibus auctor tortor tincidunt.</p>
-
-                    </div><!-- image-box -->
-
-                </div><!-- col -->
-            </div><!-- row -->
-        </div><!-- container -->
+       
 
     </div><!-- PAGE CONTENT -->
+
+
+
 
 
 @endsection
